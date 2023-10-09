@@ -23,7 +23,7 @@ struct ContentView: View {
             
         }
         .padding()
-        .border(Color.yellow)
+        .border(Color.black)
     
     }
 }
